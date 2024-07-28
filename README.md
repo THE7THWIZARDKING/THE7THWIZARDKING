@@ -132,7 +132,7 @@
 
 
 <!-- profile visit count -->
-[![](https://visitcount.itsvg.in/api?id=the7thwizardking&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=THE7THWIZARDKING&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- horizontal divider (gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
