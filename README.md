@@ -42,7 +42,6 @@
       </td>
     </tr>
   </table>
-  <!--- stats (end) -->
 
   <!--- trophy (start) -->
   <div align="center">
@@ -53,7 +52,7 @@
   <!--- trophy (end) -->
 </p>        
 
-<!-- h2 without bottom border -->
+<!-- Languages   -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Languages and Tools i know 🥷</h2></summary>
@@ -122,9 +121,10 @@
 
 <!-- icons and links -->
 <p align="center">
- <a href="https://linkedin.com/in/james-shrestha-15b7a2272" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/james-shrestha-15b7a2272" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
   <a href="https://instagram.com/the_hokageguy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a> 
