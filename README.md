@@ -1,94 +1,104 @@
-<h1 align="center">Hi 👋, I'm James Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Dharan, Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- h1 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm James Shrestha</h1></summary>
+  </ul>
+</div>
 
+<!--- snake -->
+<div align="center">
+  <img src="./snake.svg" alt="snake" />
+</div>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the7thwizardking" alt="GitHub trophies" />
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">The perfect Illusion :)</h2></summary>
+  </ul>
+</div>
+
+<!-- Intro start -->
+## About Me
+
+- 🌱 I’m currently learning **Nuxt.js and Laravel**
+- 💬 Ask me about **Nuxt.js and Laravel**
+- 📫 How to reach me **shresthajames21@gmail.com**
+- ⚡ Fun fact **I love playing FIFA on my PS4!**
+
+<!-- Intro end -->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=the7thwizardking&theme=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="James's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=the7thwizardking&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=the7thwizardking&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=the7thwizardking&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+  <!--- trophy (end) -->
+</p>        
+
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!-- tech stack icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,figma,github,html,js,laravel,linux,mysql,nuxtjs,postman,python,tailwind,vscode,vue,vuetify" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Nuxt.js and Laravel** 
-- 💬 Ask me about **Nuxt.js and Laravel** 
-- 📫 How to reach me **shresthajames21@gmail.com** 
-- ⚡ Fun fact **I love playing fifa on my ps4!**
+<!-- Connect with me -->
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/james-shrestha-15b7a2272" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<!-- icons and links -->
+<p align="center">
+  <a href="https://linkedin.com/in/james-shrestha-15b7a2272" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/the_hokageguy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://twitter.com/your-twitter-username" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" />
+  </a>
+  <a href="https://instagram.com/the_hokageguy" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  </a>
+  <a href="https://hashnode.com/@your-hashnode-username" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Hashnode" height="50" width="50" />
+  </a>
+  <a href="https://discord.gg/your-discord-invite-link" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/axios.svg" alt="axios" width="40" height="40" />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" />
-  </a>
-  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/pinia.svg" alt="pinia" width="40" height="40" />
-  </a>
-</p>
+<!-- profile visit count -->
+[![](https://visitcount.itsvg.in/api?id=the7thwizardking&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)  
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the7thwizardking&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the7thwizardking&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the7thwizardking&" alt="GitHub streak" />
-</p>
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
