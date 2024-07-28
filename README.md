@@ -1,4 +1,4 @@
-![logo](https://github.com/THE7THWIZARDKING/THE7THWIZARDKING/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm James Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Dharan, Nepal</h3>
 <img
