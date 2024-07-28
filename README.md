@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Dharan, Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=the7thwizardking&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
