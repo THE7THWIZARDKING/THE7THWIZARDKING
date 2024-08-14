@@ -25,14 +25,15 @@
 - 📫 How to reach me **shresthajames21@gmail.com**
 - ⚡ Fun fact **I love playing FIFA 🎮 on my PS4!**
 
+- <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE7THWIZARDKING&theme=aura_dark" alt="Achyut's Github Profile Summary Cards">
+</p>
+
 <!-- Intro end -->
 
 
-  <h2 align="center">About Me</h1>
+  
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE7THWIZARDKING&theme=aura_dark" alt="Achyut's Github Profile Summary Cards">
-</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
