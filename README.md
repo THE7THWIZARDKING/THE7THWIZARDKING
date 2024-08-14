@@ -27,6 +27,13 @@
 
 <!-- Intro end -->
 
+
+  <h2 align="center">About Me</h1>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE7THWIZARDKING&theme=aura_dark" alt="Achyut's Github Profile Summary Cards">
+</p>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -43,6 +50,7 @@
     </tr>
   </table>
 
+
   <!--- trophy (start) -->
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -50,7 +58,9 @@
     </a>
   </div>
   <!--- trophy (end) -->
-</p>        
+</p>   
+
+
 
 <!-- Languages   -->
 <div id="user-content-toc">
@@ -58,6 +68,9 @@
     <summary><h2 style="display: inline-block">Languages and Tools i know 🥷</h2></summary>
   </ul>
 </div>
+
+
+
 
 <!-- tech stack icons -->
 <p align="center">
