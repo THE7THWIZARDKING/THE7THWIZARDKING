@@ -18,8 +18,8 @@
 <!-- About Me -->
 ## About Me
 
-- 🌱 I’m currently learning **Nuxt.js and Laravel**
-- 💬 Ask me about **Nuxt.js and Laravel**
+- 🌱 I’m currently learning **Nuxt.js,Filament,Laravel**
+- 💬 Ask me about **Nuxt.js,Filament and Laravel**
 - 📫 How to reach me **[shresthajames21@gmail.com](mailto:shresthajames21@gmail.com)**
 - ⚡ Fun fact **I love playing FIFA 🎮 on my PS4!**
 
