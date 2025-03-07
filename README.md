@@ -1,167 +1,24 @@
-<!-- Header -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 class="text-center text-3xl font-bold">hello there!!!!!! I'm James Shrestha</h1>
-    </summary>
-  </ul>
-</div>
+# 💫 About Me:
+👋 Hi, I'm James Shrestha!<br>🚀 About Me<br>🛠️ I’m currently working on Samachar Hub, a feature-rich news portal using Laravel & Filament<br>🔗 I’m looking to collaborate on AI-powered applications, full-stack development, and innovative web projects<br>💡 I’m looking for help with optimizing chatbot interactions and improving ML model performance<br>🌱 I’m currently learning React and Flutter to expand my development skills<br>💬 Ask me about Laravel, Filament, ASP.NET, machine learning, and web development<br>⚡ Fun fact: I love blending AI with web apps to create unique user experiences!
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 class="text-center text-2xl font-semibold">the Lazy-src ;)</h2>
-    </summary>
-  </ul>
-</div>
 
-<!-- About Me -->
-## About Me
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=THE7THWIZARDKING&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=THE7THWIZARDKING&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=THE7THWIZARDKING&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Nuxt.js, Filament,Laravel**
-- 💬 Ask me about **Nuxt.js, Filament and Laravel**
-- 📫 How to reach me **[shresthajames21@gmail.com](mailto:shresthajames21@gmail.com)**
-- ⚡ Fun fact **I love playing FIFA 🎮 on my PS4!**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=THE7THWIZARDKING&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE7THWIZARDKING&theme=aura_dark" alt="Achyut's Github Profile Summary Cards" class="rounded-lg shadow-lg">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Stats & Trophy -->
-<p align="center">
-  <table align="center" class="w-full max-w-3xl">
-    <tr>
-      <td class="w-1/2 text-center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=the7thwizardking&theme=dark&show_icons=true&count_private=true" alt="James's GitHub Stats" class="rounded-lg shadow-lg">
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="James's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=the7thwizardking&theme=dark&hide_border=false" class="rounded-lg shadow-lg">
-      </td>
-      <td class="w-1/2 text-center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=the7thwizardking&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" class="rounded-lg shadow-lg">
-      </td>
-    </tr>
-  </table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=THE7THWIZARDKING&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <div align="center" class="my-4">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=the7thwizardking&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" class="rounded-lg shadow-lg">
-    </a>
-  </div>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=THE7THWIZARDKING&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Languages and Tools -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 class="text-center text-2xl font-semibold">Languages and Tools I Know 🥷</h2>
-    </summary>
-  </ul>
-</div>
-
-<!-- Tech Stack Icons -->
-<p align="center">
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Nuxt.js -->
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Vuetify -->
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XVo87zJklegWV69M-iS9UCshWf-K5J9dDg&s" alt="Vuetify" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Pinia -->
-  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/pinia.svg" alt="Pinia" width="40" height="40" class="mx-2">
-  </a>
-
-  <!-- Axios -->
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/axios.svg" alt="Axios" width="40" height="40" class="mx-2">
-  </a>
-</p>
-
-<!-- Horizontal Divider (Gradient) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5b.gif" alt="Gradient Divider" class="rounded-lg shadow-lg">
-</p>
-
-<!-- GitHub Stats -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 class="text-center text-2xl font-semibold">📈 GitHub Stats</h2>
-    </summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://github.com/the7thwizardking">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the7thwizardking&layout=compact&hide=html,scss&theme=dark" alt="James's Top Languages">
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
