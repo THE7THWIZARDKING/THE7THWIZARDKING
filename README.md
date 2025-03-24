@@ -1,11 +1,11 @@
 ### <div align="center">Hi, I'm James Shrestha👋
-I'm a full-stack developer passionate about building scalable and user-friendly applications. Currently, I'm working on Samachar Hub, a feature-rich news portal with role-based authentication, subscriptions, AI-powered chatbot integration, and user engagement tools.</div>  
+I'm a full-stack developer passionate about building scalable and user-friendly applications. Currently, I'm working on Samachar Hub, a feature-rich news portal with role-based authentication, subscriptions, and user engagement tools.</div>  
   
 
 - 🌱 I’m currently learning  Learning Flutter and React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to nuxt.js, laravel,filament and related technologies  
   
 
 - ⚡ Fun fact: I love playing FIFA on PS—challenge me if you dare! 🎮⚽  
