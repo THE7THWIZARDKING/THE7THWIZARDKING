@@ -1,99 +1,27 @@
-<div align="center">
-
-# 👋 Hi, I'm James Shrestha  
-I'm a **Full-Stack Developer** passionate about building scalable and user-friendly applications.  
+# 💫 About Me:
+🛠 I’m currently working on  <br>Just learning React Native and exploring mobile app development.<br><br>🤝 I’m looking to collaborate on  <br>Interesting full-stack or mobile projects where I can contribute and learn.<br><br>🧠 I’m looking for help with  <br>Best practices in React Native and optimizing performance in mobile apps.<br><br>🌱 I’m currently learning  <br>React Native and mobile-first UI/UX design.<br><br>💬 Ask me about  <br>Laravel, Filament, .NET, React, and transitioning from web to mobile development.<br><br>⚡ Fun fact  <br>I built a complete news portal as my final year project—and it’s live!<br>
 
 
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/james.shrestha.139979/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_hokageguy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-shrestha-15b7a2272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jameshrestha07@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=THE7THWIZARDKING&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=THE7THWIZARDKING&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=THE7THWIZARDKING&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=THE7THWIZARDKING&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **React Native**  for cross-platform mobile app development  
-- 🧠 I'm experienced in **Nuxt.js**, **Laravel**, and **Filament**, and always eager to dive deeper into full-stack solutions  
-- ❓ Ask me about anything frontend, backend, or devops—I'm happy to help  
-- ⚡ Fun fact: I love playing **FIFA on PS**—challenge me if you dare! 🎮⚽  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 💻 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🌐 Frontend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" height="50" alt="Nuxt.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ Backend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP" />
-  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ DevOps & Tools
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
-  <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" alt="GitHub" />
-</div>
-
-</td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=THE7THWIZARDKING&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=THE7THWIZARDKING&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📱 Currently Exploring
-
-- **React Native** for building native mobile apps  
-- **Flutter** for high-performance UIs across platforms  
-- Progressive enhancement in **Nuxt 3**, **Filament custom panels**, and **full-stack workflows**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THE7THWIZARDKING&show_icons=true&count_private=true&hide_border=true" />
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/THE7THWIZARDKING" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/i" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/THE7THWIZARDKING" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/james shrestha" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
