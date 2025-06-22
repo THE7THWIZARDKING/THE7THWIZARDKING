@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm James Shrestha  
 I'm a **Full-Stack Developer** passionate about building scalable and user-friendly applications.  
-Currently building **Samachar Hub**, a feature-rich news portal with role-based authentication, subscriptions, and dynamic user engagement tools.
+
 
 </div>
 
@@ -10,7 +10,7 @@ Currently building **Samachar Hub**, a feature-rich news portal with role-based 
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **React Native** and **Flutter** for cross-platform mobile app development  
+- 🌱 I’m currently learning **React Native**  for cross-platform mobile app development  
 - 🧠 I'm experienced in **Nuxt.js**, **Laravel**, and **Filament**, and always eager to dive deeper into full-stack solutions  
 - ❓ Ask me about anything frontend, backend, or devops—I'm happy to help  
 - ⚡ Fun fact: I love playing **FIFA on PS**—challenge me if you dare! 🎮⚽  
