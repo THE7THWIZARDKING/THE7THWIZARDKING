@@ -1,5 +1,22 @@
-# 💫 About Me:
-👋 Hi, I'm James Shrestha.  <br><br>💻 Full-stack web developer | Laravel, Filament & Nuxt.js enthusiast | Open-source contributor  <br><br>I love building scalable, interactive web applications. Currently focused on:<br>- Backend development with Laravel & Filament  <br>- Frontend development with Nuxt.js and modern JavaScript  <br>- Clean, interactive UI/UX  <br><br>Always learning, always coding. 🚀  <br>
+💫 About Me:
+
+👋 Hi, I'm James Shrestha.
+<br><br>
+💻 Full-stack web developer | Microsoft Dynamics 365 CRM Intern | ERP (Business Central) Trainee | Laravel enthusiast
+<br><br>
+
+I enjoy building scalable business applications and learning how real-world enterprise systems work behind the scenes. Currently focused on:
+
+🔷 Microsoft Dynamics 365 CRM (Sales, Leads, Automation, Power Platform)
+🟦 Microsoft Dynamics 365 Business Central (ERP fundamentals, AL development, extensions)
+⚙️ Backend development with Laravel
+🎨 Frontend development with modern JavaScript frameworks
+🔄 Business process automation (Power Automate, workflows, CRM logic)
+<br>
+
+I’m transitioning from traditional web development into enterprise systems, combining development + business process understanding.
+
+🚀 Always learning, always building, always improving.
 
 
 
