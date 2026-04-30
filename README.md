@@ -5,11 +5,9 @@
 💻 Full-stack web developer | Microsoft Dynamics 365 CRM Intern | ERP (Business Central) Trainee | Laravel enthusiast
 <br><br>
 
-🔭 I’m currently working on Microsoft Dynamics 365 CRM (Sales automation, Lead management, Power Automate flows) and learning ERP systems with Microsoft Dynamics 365 Business Central
-🌱 I’m currently learning Microsoft Dynamics 365 CRM Power Platform (Power Automate, Power Apps) Business Central (ERP fundamentals + AL development)
-🤝 I’m looking for help with Advanced Dynamics 365 customization, AL language in Business Central, and enterprise architecture concepts
-👯 I’m looking to collaborate on Business automation tools, CRM extensions, ERP workflows, and Laravel-based SaaS projects
-💬 Ask me about Laravel, CRM automation, Power Automate flows, basic ERP concepts, and full-stack web development
+🔭 I’m currently working on Microsoft Dynamics 365 CRM (Sales automation, Lead management, Power Automate flows) and learning ERP systems with Microsoft Dynamics 365 Business Central. <br><br>
+🌱 I’m currently learning Microsoft Dynamics 365 CRM Power Platform (Power Automate, Power Apps) Business Central (ERP fundamentals + AL development) <br><br>
+🤝 I’m looking for help with Advanced Dynamics 365 customization, AL language in Business Central, and enterprise architecture concepts <br><br>
 
 🚀 Always learning, always building, always improving.
 
