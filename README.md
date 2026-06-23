@@ -22,6 +22,15 @@ Currently, I am building enterprise-level Business Central solutions including:
 
 I enjoy learning advanced AL development concepts, system architecture, reporting, automation, and best practices used in real-world Business Central projects..
 
+Featured Projects
+🚗 Vehicle Management System
+🏦 Bank HRMS System
+👥 Employee Management System
+📊 Head Count Report
+📋 Training Memo Report
+🔄 Attribute Adjustment Report
+📑 Resignation & Retirement Reports
+
 
 
 
