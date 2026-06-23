@@ -1,15 +1,26 @@
 💫 About Me:
 
-👋 Hi, I'm James Shrestha.
-<br><br>
-💻 Full-stack web developer | Microsoft Dynamics 365 CRM Intern | ERP (Business Central) Trainee | Laravel enthusiast
-<br><br>
+Hi, I'm James Shrestha, a Microsoft Dynamics 365 Business Central (AL) Developer from Nepal.
 
-🔭 I’m currently working on Microsoft Dynamics 365 CRM (Sales automation, Lead management, Power Automate flows) and learning ERP systems with Microsoft Dynamics 365 Business Central. <br><br>
-🌱 I’m currently learning Microsoft Dynamics 365 CRM Power Platform (Power Automate, Power Apps) Business Central (ERP fundamentals + AL development) <br><br>
-🤝 I’m looking for help with Advanced Dynamics 365 customization, AL language in Business Central, and enterprise architecture concepts <br><br>
+I specialize in developing custom ERP solutions using Business Central, focusing on:
 
-🚀 Always learning, always building, always improving.
+Employee & HR Management Systems
+Payroll & Leave Management
+Vehicle Management Systems
+Custom Reports (RDLC)
+API Development & Integrations
+Business Process Automation
+Microsoft DevOps & Git Workflow
+
+Currently, I am building enterprise-level Business Central solutions including:
+
+🚗 Vehicle Management System
+🏦 Bank HRMS System
+👨‍💼 Employee Management & Payroll Modules
+📊 Custom Reporting Solutions
+🔗 REST API Integrations
+
+I enjoy learning advanced AL development concepts, system architecture, reporting, automation, and best practices used in real-world Business Central projects..
 
 
 
